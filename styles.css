@@ -83,6 +83,25 @@ h1, h2, h3, h4, p {
     border-bottom: #fafafa solid 10px;
 }
 
+.assignment {
+    margin-bottom: 75px;
+}
+
+.assignment img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    border-radius: 50%;
+    height: 500px;
+    width: 500px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-evenly;
+}
+
 #next_image, #previous_image {
     background-color: #3c096c;
     color:#ffffff;
